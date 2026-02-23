@@ -1,10 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Yushi Kashimura"
 secondary_name: ""
 navbar_name: "Yushi Kashimura's Website"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Research Associate
+- name: Meiji University, Japan
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
