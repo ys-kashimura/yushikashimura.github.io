@@ -5,7 +5,7 @@ navbar_name: "Yushi Kashimura's Website"
 positions:
 - name: Research Associate
 - name: Meiji University, Japan
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/yushi.png
 
 
 email: "kashimura@meiji.ac.jp"
@@ -24,13 +24,11 @@ portrait_caption: >-
 
 education:
 - name: Meiji University
-  logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     School of Global Japanese Studies <br/>
     Research Associate
   date: April 2026 - present
 - name: Bunkyo University
-  logo: /assets/images/badges/PKU_red.png
   position: >-
     Faculty of Language and Literature <br/>
     Part-time lecture
