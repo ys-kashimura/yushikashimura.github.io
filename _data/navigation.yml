@@ -6,6 +6,6 @@ pages:
 - name: Publication
   url: /publication
 - name: Presentation
-url: presentation
+  url: presentation
 - name: Showcase
   url: /showcase
