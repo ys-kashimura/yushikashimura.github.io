@@ -22,11 +22,13 @@ portrait_url: /assets/images/yushi.png
 
 education:
 - name: Meiji University
+  logo: /assets/images/meiji.png
   position: >- 
     School of Global Japanese Studies <br/>
     Research Associate
   date: April 2026 - present
 - name: Bunkyo University
+  logo: /assets/images/bunkyo.png
   position: >-
     Faculty of Language and Literature <br/>
     Part-time lecture
