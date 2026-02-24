@@ -33,7 +33,16 @@ employment:
   date: April 2025 - present
 
 education:
-- name: Doctor of Philosophy, Meiji University, Japan
-  date: 2026
-- name: Master of Arts, Gakushuin University, Japan
-  date: 2022
+- name: Meiji University
+  logo: /assets/images/meiji.png
+  position: >- 
+    Doctor of Philosophy
+    Graduate School of Global Japanese Studies <br/>
+  date: March 2026
+- name: Gakushuin University
+  logo: /assets/images/bunkyo.png
+  position: >-
+    Master of Arts
+    Faculty of Language and Literature <br/>
+    Part-time lecturer
+  date: March 2022
