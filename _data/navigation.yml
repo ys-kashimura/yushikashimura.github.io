@@ -5,7 +5,7 @@ pages:
   url: /publication
 - name: Research grant
   url: /researchgrant
-- name: Journal links
-  url: /journallinks
 - name: Network psychometrics
   url: /networkpsychometrics
+- name: Journal links
+  url: /journallinks
