@@ -3,5 +3,4 @@ homepage:
   show_news: true
   num_news: 4
   show_readings: true
-  num_readings: 4
   show_selected_publications: true
